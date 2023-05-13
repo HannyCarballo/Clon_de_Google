@@ -1,8 +1,8 @@
 # Clonación de Interfaz de Google
 
-## Índice
+## ÍNDICE
 
-* [1. Intro](https://github.com/HannyCarballo/Clon_de_Google/blob/master/README.md#1-intro)
+* [1. Intro](https://github.com/HannyCarballo/Clon_de_Google/tree/master#1-intro)
 * [2. Qué construí](#)
 * [3. Objetivo del proyecto](#)
 
