@@ -3,7 +3,7 @@
 ## ÍNDICE
 
 * [1. Intro](https://github.com/HannyCarballo/Clon_de_Google/tree/master#1-intro)
-* [2. Qué construí](https://github.com/HannyCarballo/Clon_de_Google/assets/89166148/842ec05f-e0ba-43f4-8bfc-82070bc2c979)
+* [2. Qué construí](https://github.com/HannyCarballo/Clon_de_Google/tree/master#2-qu%C3%A9-constru%C3%AD)
 * [3. Objetivo del proyecto](#)
 
 ****
